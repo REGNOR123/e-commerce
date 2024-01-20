@@ -1,0 +1,31 @@
+.productList{
+text-align: center;
+margin-top: 50px;
+}
+.productList h2 {
+    color: rgb(57, 177, 73);
+    font-family: auto;
+}
+.productList li{
+    display: inline-block;
+    border: solid 0.5px lightgray;
+    padding: 5px;
+    width: 150px;
+    /* font-family: monospace;   */
+}
+.productList ul{
+    margin-top: -12px;
+    margin-bottom: 12px;
+}
+.productList .headers{
+    color: brown;
+    font-family: initial;
+}
+.productList input{
+    margin-bottom: 25px;
+    margin-left: 40px;
+    padding: 5px;
+    width: 25%;
+    border-radius: 6px;
+    border: 2px solid green;
+}

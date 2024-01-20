@@ -1,0 +1,51 @@
+ 
+.updateProductList{
+    text-align: center;
+    margin-top: 50px;
+    }
+    .updateProductList h2 {
+        color: rgb(57, 177, 73);
+        font-family: auto;
+    }
+    .updateProductList li{
+        display: inline-block;
+        border: solid 0.5px lightgray;
+        padding: 6px;
+        width: 135px;
+        font-family: monospace;
+    }
+    .updateProductList ul{
+        margin-top: -12px;
+        margin-bottom: 12px;
+    }
+    .updateProductList .headers{
+        color: brown;
+        font-family: initial;
+        margin-right: 12px;
+    }
+    .updateProductList button{
+        width: 65px;
+        background-color: #f16464;
+        border: none;
+        border-radius: 23px;
+    }
+
+.updateProductList .remove {
+    width: 97px;
+    /* background-color: #f16464; */
+    border: 0.5px solid lightgrey;
+    border-radius: -12px;
+    padding: 6px;
+    /* display: flex; */
+    /* flex-direction: row; */
+    margin-top: -1px;
+}
+    
+    .updateProductList .removeHeader{
+        width: 96px;
+        border: 0.5px solid lightgrey;
+        border-radius: -12px;
+        padding: 6px;
+        margin-right: -11px;
+    }
+    

@@ -1,0 +1,23 @@
+.SignUp {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.SignUp h1 {
+    color: rgb(57, 177, 73);
+    font-family: auto;
+}
+.SignUp input{
+    padding: 14px;
+    margin: 12px;
+    width: 20%;
+    border: solid 0.5px lightgrey;
+}
+.SignUp button{
+    padding: 5px;
+    width: 139px;
+    border: 0.1px solid lightseagreen;
+    background-color: #9eeba9;
+}
+
+
